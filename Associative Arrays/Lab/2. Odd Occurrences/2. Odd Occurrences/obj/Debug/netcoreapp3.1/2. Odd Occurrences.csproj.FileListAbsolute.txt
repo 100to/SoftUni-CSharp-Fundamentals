@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder\2. Odd Occurrences\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.exe
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder\2. Odd Occurrences\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.deps.json
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder\2. Odd Occurrences\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.runtimeconfig.json
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder\2. Odd Occurrences\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.runtimeconfig.dev.json
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder\2. Odd Occurrences\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.dll
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder\2. Odd Occurrences\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.pdb
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder\2. Odd Occurrences\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder\2. Odd Occurrences\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder\2. Odd Occurrences\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder\2. Odd Occurrences\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.AssemblyInfo.cs
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder\2. Odd Occurrences\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder\2. Odd Occurrences\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.dll
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder\2. Odd Occurrences\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.pdb
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder\2. Odd Occurrences\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.genruntimeconfig.cache
