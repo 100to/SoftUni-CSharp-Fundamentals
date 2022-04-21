@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\1. Count Chars in a String\1. Count Chars in a String\bin\Debug\netcoreapp3.1\1. Count Chars in a String.exe
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\1. Count Chars in a String\1. Count Chars in a String\bin\Debug\netcoreapp3.1\1. Count Chars in a String.deps.json
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\1. Count Chars in a String\1. Count Chars in a String\bin\Debug\netcoreapp3.1\1. Count Chars in a String.runtimeconfig.json
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\1. Count Chars in a String\1. Count Chars in a String\bin\Debug\netcoreapp3.1\1. Count Chars in a String.runtimeconfig.dev.json
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\1. Count Chars in a String\1. Count Chars in a String\bin\Debug\netcoreapp3.1\1. Count Chars in a String.dll
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\1. Count Chars in a String\1. Count Chars in a String\bin\Debug\netcoreapp3.1\1. Count Chars in a String.pdb
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\1. Count Chars in a String\1. Count Chars in a String\obj\Debug\netcoreapp3.1\1. Count Chars in a String.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\1. Count Chars in a String\1. Count Chars in a String\obj\Debug\netcoreapp3.1\1. Count Chars in a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\1. Count Chars in a String\1. Count Chars in a String\obj\Debug\netcoreapp3.1\1. Count Chars in a String.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\1. Count Chars in a String\1. Count Chars in a String\obj\Debug\netcoreapp3.1\1. Count Chars in a String.AssemblyInfo.cs
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\1. Count Chars in a String\1. Count Chars in a String\obj\Debug\netcoreapp3.1\1. Count Chars in a String.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\1. Count Chars in a String\1. Count Chars in a String\obj\Debug\netcoreapp3.1\1. Count Chars in a String.dll
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\1. Count Chars in a String\1. Count Chars in a String\obj\Debug\netcoreapp3.1\1. Count Chars in a String.pdb
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\1. Count Chars in a String\1. Count Chars in a String\obj\Debug\netcoreapp3.1\1. Count Chars in a String.genruntimeconfig.cache
