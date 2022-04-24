@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\4. Orders\4. Orders\bin\Debug\netcoreapp3.1\4. Orders.exe
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\4. Orders\4. Orders\bin\Debug\netcoreapp3.1\4. Orders.deps.json
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\4. Orders\4. Orders\bin\Debug\netcoreapp3.1\4. Orders.runtimeconfig.json
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\4. Orders\4. Orders\bin\Debug\netcoreapp3.1\4. Orders.runtimeconfig.dev.json
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\4. Orders\4. Orders\bin\Debug\netcoreapp3.1\4. Orders.dll
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\4. Orders\4. Orders\bin\Debug\netcoreapp3.1\4. Orders.pdb
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\4. Orders\4. Orders\obj\Debug\netcoreapp3.1\4. Orders.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\4. Orders\4. Orders\obj\Debug\netcoreapp3.1\4. Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\4. Orders\4. Orders\obj\Debug\netcoreapp3.1\4. Orders.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\4. Orders\4. Orders\obj\Debug\netcoreapp3.1\4. Orders.AssemblyInfo.cs
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\4. Orders\4. Orders\obj\Debug\netcoreapp3.1\4. Orders.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\4. Orders\4. Orders\obj\Debug\netcoreapp3.1\4. Orders.dll
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\4. Orders\4. Orders\obj\Debug\netcoreapp3.1\4. Orders.pdb
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\4. Orders\4. Orders\obj\Debug\netcoreapp3.1\4. Orders.genruntimeconfig.cache
