@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\8. Company Users\8. Company Users\bin\Debug\netcoreapp3.1\8. Company Users.exe
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\8. Company Users\8. Company Users\bin\Debug\netcoreapp3.1\8. Company Users.deps.json
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\8. Company Users\8. Company Users\bin\Debug\netcoreapp3.1\8. Company Users.runtimeconfig.json
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\8. Company Users\8. Company Users\bin\Debug\netcoreapp3.1\8. Company Users.runtimeconfig.dev.json
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\8. Company Users\8. Company Users\bin\Debug\netcoreapp3.1\8. Company Users.dll
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\8. Company Users\8. Company Users\bin\Debug\netcoreapp3.1\8. Company Users.pdb
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\8. Company Users\8. Company Users\obj\Debug\netcoreapp3.1\8. Company Users.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\8. Company Users\8. Company Users\obj\Debug\netcoreapp3.1\8. Company Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\8. Company Users\8. Company Users\obj\Debug\netcoreapp3.1\8. Company Users.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\8. Company Users\8. Company Users\obj\Debug\netcoreapp3.1\8. Company Users.AssemblyInfo.cs
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\8. Company Users\8. Company Users\obj\Debug\netcoreapp3.1\8. Company Users.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\8. Company Users\8. Company Users\obj\Debug\netcoreapp3.1\8. Company Users.dll
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\8. Company Users\8. Company Users\obj\Debug\netcoreapp3.1\8. Company Users.pdb
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Associative Arrays\New folder (2)\8. Company Users\8. Company Users\obj\Debug\netcoreapp3.1\8. Company Users.genruntimeconfig.cache
