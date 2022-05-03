@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Lists\New folder\5. Remove Negatives and Reverse\5. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\5. Remove Negatives and Reverse.exe
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Lists\New folder\5. Remove Negatives and Reverse\5. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\5. Remove Negatives and Reverse.deps.json
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Lists\New folder\5. Remove Negatives and Reverse\5. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\5. Remove Negatives and Reverse.runtimeconfig.json
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Lists\New folder\5. Remove Negatives and Reverse\5. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\5. Remove Negatives and Reverse.runtimeconfig.dev.json
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Lists\New folder\5. Remove Negatives and Reverse\5. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\5. Remove Negatives and Reverse.dll
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Lists\New folder\5. Remove Negatives and Reverse\5. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\5. Remove Negatives and Reverse.pdb
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Lists\New folder\5. Remove Negatives and Reverse\5. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\5. Remove Negatives and Reverse.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Lists\New folder\5. Remove Negatives and Reverse\5. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\5. Remove Negatives and Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Lists\New folder\5. Remove Negatives and Reverse\5. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\5. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Lists\New folder\5. Remove Negatives and Reverse\5. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\5. Remove Negatives and Reverse.AssemblyInfo.cs
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Lists\New folder\5. Remove Negatives and Reverse\5. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\5. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Lists\New folder\5. Remove Negatives and Reverse\5. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\5. Remove Negatives and Reverse.dll
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Lists\New folder\5. Remove Negatives and Reverse\5. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\5. Remove Negatives and Reverse.pdb
+C:\Users\USER\Desktop\SoftUni\C# Fundamentals\Lists\New folder\5. Remove Negatives and Reverse\5. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\5. Remove Negatives and Reverse.genruntimeconfig.cache
